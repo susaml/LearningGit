@@ -1,7 +1,1 @@
-test for git 
-
-append something to text for branch dev
-
-something for branch future. and for 2
-
-marster
+a test for dev branch
